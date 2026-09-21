@@ -17,7 +17,7 @@ sites:
     url: https://docs.ataanai.com
 status-website:
   cname: status.ataanai.com
-  logoUrl: https://ataanai.com/favicon.svg
+  logoUrl: https://ataanai.com/favicon.png
   name: ATAAN Status
   introTitle: "**ATAAN System Status**"
   introMessage: Real-time uptime monitoring and incident tracking for all ATAAN services.
