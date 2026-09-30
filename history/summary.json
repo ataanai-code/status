@@ -4,36 +4,40 @@
     "url": "https://ataanai.com",
     "icon": "https://icons.duckduckgo.com/ip3/ataanai.com.ico",
     "slug": "ataan-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 764,
-    "timeDay": 579,
-    "timeWeek": 787,
-    "timeMonth": 764,
-    "timeYear": 764,
-    "dailyMinutesDown": {}
+    "time": 748,
+    "timeDay": 560,
+    "timeWeek": 756,
+    "timeMonth": 748,
+    "timeYear": 748,
+    "dailyMinutesDown": {
+      "2026-09-30": 1
+    }
   },
   {
     "name": "ATAAN SaaS Dashboard",
     "url": "https://app.ataanai.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.ataanai.com.ico",
     "slug": "ataan-saa-s-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 512,
-    "timeWeek": 578,
-    "timeMonth": 611,
-    "timeYear": 611,
-    "dailyMinutesDown": {}
+    "time": 606,
+    "timeDay": 515,
+    "timeWeek": 598,
+    "timeMonth": 606,
+    "timeYear": 606,
+    "dailyMinutesDown": {
+      "2026-09-30": 0
+    }
   },
   {
     "name": "ATAAN Core API",
@@ -48,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 658,
     "timeDay": 493,
-    "timeWeek": 644,
+    "timeWeek": 629,
     "timeMonth": 658,
     "timeYear": 658,
     "dailyMinutesDown": {}
@@ -66,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 643,
     "timeDay": 538,
-    "timeWeek": 600,
+    "timeWeek": 625,
     "timeMonth": 643,
     "timeYear": 643,
     "dailyMinutesDown": {}
@@ -84,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 638,
     "timeDay": 541,
-    "timeWeek": 599,
+    "timeWeek": 628,
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {}
