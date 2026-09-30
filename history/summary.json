@@ -4,19 +4,19 @@
     "url": "https://ataanai.com",
     "icon": "https://icons.duckduckgo.com/ip3/ataanai.com.ico",
     "slug": "ataan-landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 560,
-    "timeWeek": 756,
-    "timeMonth": 748,
-    "timeYear": 748,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 867,
+    "timeDay": 1218,
+    "timeWeek": 953,
+    "timeMonth": 867,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2026-09-30": 1
+      "2026-09-30": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.ataanai.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.ataanai.com.ico",
     "slug": "ataan-saa-s-dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 515,
-    "timeWeek": 598,
-    "timeMonth": 606,
-    "timeYear": 606,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 631,
+    "timeDay": 704,
+    "timeWeek": 652,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2026-09-30": 0
+      "2026-09-30": 13
     }
   },
   {
