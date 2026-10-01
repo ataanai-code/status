@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ataanai.com.ico",
     "slug": "ataan-landing-page",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 867,
-    "timeDay": 1218,
-    "timeWeek": 953,
-    "timeMonth": 867,
-    "timeYear": 867,
-    "dailyMinutesDown": {
-      "2026-09-30": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 842,
+    "timeDay": 1180,
+    "timeWeek": 898,
+    "timeMonth": 842,
+    "timeYear": 842,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ATAAN SaaS Dashboard",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.ataanai.com.ico",
     "slug": "ataan-saa-s-dashboard",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 631,
-    "timeDay": 704,
-    "timeWeek": 652,
-    "timeMonth": 631,
-    "timeYear": 631,
-    "dailyMinutesDown": {
-      "2026-09-30": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 611,
+    "timeDay": 611,
+    "timeWeek": 598,
+    "timeMonth": 611,
+    "timeYear": 611,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ATAAN Core API",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 493,
-    "timeWeek": 629,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "time": 661,
+    "timeDay": 711,
+    "timeWeek": 620,
+    "timeMonth": 661,
+    "timeYear": 661,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 538,
-    "timeWeek": 625,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "time": 614,
+    "timeDay": 231,
+    "timeWeek": 545,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 541,
-    "timeWeek": 628,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "time": 645,
+    "timeDay": 735,
+    "timeWeek": 625,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   }
 ]
