@@ -1,7 +1,7 @@
 url: https://api.ataanai.com/health
-status: down
-code: 503
-responseTime: 859
-lastUpdated: 2026-10-07T16:06:18.560Z
+status: up
+code: 200
+responseTime: 597
+lastUpdated: 2026-10-07T16:25:41.668Z
 startTime: 2026-09-21T18:08:56.787Z
 generator: Upptime <https://github.com/upptime/upptime>
