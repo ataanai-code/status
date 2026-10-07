@@ -1,7 +1,7 @@
 url: https://voice.ataanai.com/health
-status: up
-code: 200
-responseTime: 515
-lastUpdated: 2026-10-06T23:10:13.411Z
+status: down
+code: 503
+responseTime: 688
+lastUpdated: 2026-10-07T16:06:34.706Z
 startTime: 2026-09-21T18:08:57.729Z
 generator: Upptime <https://github.com/upptime/upptime>
