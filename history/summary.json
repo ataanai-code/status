@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 498,
-    "timeWeek": 715,
-    "timeMonth": 803,
-    "timeYear": 792,
+    "time": 794,
+    "timeDay": 878,
+    "timeWeek": 741,
+    "timeMonth": 806,
+    "timeYear": 794,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.ataanai.com.ico",
     "slug": "ataan-saa-s-dashboard",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 612,
-    "timeDay": 414,
-    "timeWeek": 573,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "uptimeYear": "99.97%",
+    "time": 613,
+    "timeDay": 690,
+    "timeWeek": 602,
+    "timeMonth": 614,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2026-10-07": 20
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ataanai.com.ico",
     "slug": "ataan-core-api",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 627,
-    "timeDay": 366,
-    "timeWeek": 562,
-    "timeMonth": 613,
-    "timeYear": 627,
+    "uptimeYear": "99.97%",
+    "time": 629,
+    "timeDay": 683,
+    "timeWeek": 588,
+    "timeMonth": 615,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2026-10-07": 19
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 612,
-    "timeDay": 415,
-    "timeWeek": 547,
-    "timeMonth": 599,
-    "timeYear": 612,
+    "time": 613,
+    "timeDay": 657,
+    "timeWeek": 567,
+    "timeMonth": 601,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2026-10-07": 19
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 498,
-    "timeWeek": 578,
-    "timeMonth": 629,
-    "timeYear": 632,
+    "time": 631,
+    "timeDay": 619,
+    "timeWeek": 592,
+    "timeMonth": 628,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   }
 ]
